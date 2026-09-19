@@ -1,0 +1,27 @@
+[
+  [
+    "",
+    "vst3sdk",
+    "9fad9770f2ae8542ab1a548a68c1ad1ac690abe0"
+  ],
+  [
+    "base",
+    "vst3_base",
+    "3d2e82f8e6bff59c1d8b7a27491a29c2286b5206"
+  ],
+  [
+    "cmake",
+    "vst3_cmake",
+    "de6e54eeaaab35b7145f5c32c279b5e892146e04"
+  ],
+  [
+    "pluginterfaces",
+    "vst3_pluginterfaces",
+    "31d6eeba6daaa3e2a8bfbe3e7a90ca0b7fbfbc1c"
+  ],
+  [
+    "public.sdk",
+    "vst3_public_sdk",
+    "a3911a4615dabbfdfd9d181ee26b05c70c289a95"
+  ]
+]
