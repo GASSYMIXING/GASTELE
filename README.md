@@ -1,5 +1,5 @@
 # GASTELE 1.2 — Gassymixing
-
+![GASTELE](GASTELE-interface.png)
 Windows x64 VST3 telephone / lo-fi effect. The approved art is embedded in the binary; no external image installation is needed.
 
 Release 1.2 adds an optional Realphone EQ after the entire legacy style/MIX/OUTPUT chain. Default OFF preserves 1.1 audio exactly. Global bypass bypasses this EQ too. The installer supports staged-copy verification, backup, locked-file rejection and rollback.
